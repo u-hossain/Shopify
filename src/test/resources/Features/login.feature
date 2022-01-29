@@ -67,8 +67,8 @@ Feature: Shopify Test Functionalities
     And User Click Need An Idea Button
     Then Users can see Find An Idea Title On This Page
 
-  Scenario: Navigate to Pricing Page
-    When User Click On Pricing Option
-    And User Clicks On Learn More About Shopify Plus
-    And User Clicks On Lets Talk
-    Then User Can See Lets Talk About Business Title in This Page
+#  Scenario: Navigate to Pricing Page
+#    When User Click On Pricing Option
+#    And User Clicks On Learn More About Shopify Plus
+#    And User Clicks On Lets Talk
+#    Then User Can See Lets Talk About Business Title in This Page
